@@ -32,7 +32,7 @@ void main(void) {
     PORTBbits.RA0=0;
     PORTBbits.RA1=0;
     PORTBbits.RA2=0;
-    PORTBbits.RA3=0;
+    PORTBbits.RA3=0;  //ggfgf
     
     return;
 }
